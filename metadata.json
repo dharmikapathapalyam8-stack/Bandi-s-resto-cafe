@@ -1,0 +1,6 @@
+{
+  "name": "Bandi's Resto Cafe",
+  "description": "Bandi's Resto Cafe in Tirupati, Andhra Pradesh — biryanis, starters, beverages, dine-in, drive-through, and no-contact delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
